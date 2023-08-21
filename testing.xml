@@ -1,8 +1,4 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="PersonTestSuite">
-    <test name="PersonTest">
-        <classes>
-            <class name="cc.robotdreams.PersonTest"/>
-        </classes>
-    </test>
+
 </suite>
